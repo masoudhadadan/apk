@@ -1,0 +1,6 @@
+- pipeline: y_1jsh
+  name: Pipeline
+  definition_source: REMOTE
+  remote_path: pubspec.yaml
+  remote_ref: main
+  remote_project_name: apk
